@@ -1,0 +1,481 @@
+Runs; Iterations;Problem;ants;BestSequence;RouteDistance;Time;
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+1;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+2;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+3;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+4;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+5;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+6;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+7;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+8;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+9;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+10;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+11;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+12;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+13;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+14;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+15;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+16;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+17;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+18;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+19;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+20;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+21;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+22;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+23;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+24;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+25;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+26;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+27;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+28;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+29;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+30;15;13;1024; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+1;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+2;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+3;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+4;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+5;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+srun: error: r13n05: task 0: Exited with exit code 9
+
+6;15;13;2048; File not opened
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+7;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+8;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+9;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+10;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+11;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+12;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+13;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+14;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+15;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+16;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+17;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+18;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+19;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+20;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+21;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+22;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+23;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+24;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+25;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+26;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+27;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+28;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+29;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+30;15;13;2048; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+1;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+2;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+3;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+4;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+5;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+6;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+7;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+8;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+9;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+10;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+11;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+12;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+13;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+14;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+15;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+16;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+17;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+18;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+19;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+20;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+21;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+22;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+23;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+24;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+25;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+26;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+27;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+28;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+29;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+30;15;13;4096; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+1;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+2;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+3;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+4;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+5;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+6;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+7;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+8;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+9;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+10;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+11;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+12;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+13;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+14;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+15;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+16;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+17;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+18;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+19;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+20;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+21;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+22;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+23;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+24;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+25;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+26;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+27;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+28;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+29;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
+GPUassert: invalid configuration argument src/../include/musket.cuh 575
+
+30;15;13;8192; File not opened
+srun: error: r13n05: task 0: Exited with exit code 9
