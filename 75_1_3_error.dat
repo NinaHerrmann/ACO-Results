@@ -1,0 +1,2 @@
+GPUassert: an illegal memory access was encountered src/../include/musket.cuh 603
+srun: error: r13n01: task 0: Exited with exit code 188
