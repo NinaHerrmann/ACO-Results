@@ -2,7 +2,7 @@ import csv
 import numpy as np
 import pandas as pd
 
-my_data=pd.read_csv('/home/n_herr03/Research/ACO-Results/75_5-12.dat', delimiter=';', header=None)
+my_data=pd.read_csv('../raw_data/Musket_75_5-12_completekernels.dat', delimiter=';', header=None)
 currentcity = 0
 results = pd.DataFrame(np.zeros((4, 12)))
 sum = 0
@@ -33,4 +33,4 @@ for index, row in my_data.iterrows():
         lastnumberants = row[3]
     sum += row[6]
     counter = counter + 1
-results.to_csv('result.csv')
+results.to_csv('result_musket.csv')
