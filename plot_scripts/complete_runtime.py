@@ -17,16 +17,16 @@ width = 0.35       # the width of the bars: can also be len(x) sequence
 
 many_years = runtimes.iloc[0]
 labels = [str(int(year)) for year in many_years]
-xvalue = [(int(year)) for year in many_years]
-yvalue_1024 = runtimes.iloc[[1]].astype(float).values[0]
-yvalue_2048 = runtimes.iloc[[2]].astype(float).values[0]
-yvalue_4096 = runtimes.iloc[[3]].astype(float).values[0]
-yvalue_8192 = runtimes.iloc[[4]].astype(float).values[0]
+xvalue = [(int(year)) for year in many_years][:-1]
+yvalue_1024 = runtimes.iloc[[1]].astype(float).values[0][:-1]
+yvalue_2048 = runtimes.iloc[[2]].astype(float).values[0][:-1]
+yvalue_4096 = runtimes.iloc[[3]].astype(float).values[0][:-1]
+yvalue_8192 = runtimes.iloc[[4]].astype(float).values[0][:-1]
 
-yvalue_1024_ll = runtimes_lowlevel.iloc[[1]].astype(float).values[0]
-yvalue_2048_ll = runtimes_lowlevel.iloc[[2]].astype(float).values[0]
-yvalue_4096_ll = runtimes_lowlevel.iloc[[3]].astype(float).values[0]
-yvalue_8192_ll = runtimes_lowlevel.iloc[[4]].astype(float).values[0]
+yvalue_1024_ll = runtimes_lowlevel.iloc[[1]].astype(float).values[0][:-1]
+yvalue_2048_ll = runtimes_lowlevel.iloc[[2]].astype(float).values[0][:-1]
+yvalue_4096_ll = runtimes_lowlevel.iloc[[3]].astype(float).values[0][:-1]
+yvalue_8192_ll = runtimes_lowlevel.iloc[[4]].astype(float).values[0][:-1]
 
 ind = np.arange(len(labels))
 # print yvalue_1024_ll
