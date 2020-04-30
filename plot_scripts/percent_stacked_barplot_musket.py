@@ -16,11 +16,11 @@ legendlabels = ["" for x in range(10)]
 legendlabels[0] = 'Initialize Datastructures and Skeletons'
 legendlabels[1] = 'Read Data and Copy to Device'
 legendlabels[2] = 'Calculate Distance'
-legendlabels[3] = 'Calculate Iroueltte'
+legendlabels[3] = 'Calculate Iroulette'
 legendlabels[4] = 'Route Kernel'
-legendlabels[5] = 'Update Best Sequence'
-legendlabels[6] = 'Update Pheromones'
-legendlabels[7] = 'Minimum Kernel'
+legendlabels[5] = 'Update Pheromones'
+legendlabels[6] = 'Minimum Kernel'
+legendlabels[7] = 'Update Best Sequence'
 legendlabels[8] = 'Update Pheromones'
 
 axes[0, 0].set_title('1024 Ants')
