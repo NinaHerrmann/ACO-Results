@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from matplotlib import rc
 import pandas as pd
  
-md = pd.read_csv('../data_aggregation/Musket_1,3,5-12_splitkernels.csv', delimiter=',', header=None).T
+md = pd.read_csv('../data_aggregation/Musket_1,3,5-12_kernel_sumofiterations.csv', delimiter=',', header=None).T
 
 #define size
 fig, axes = plt.subplots(nrows=2, ncols=2, sharex=True, figsize=(15, 10))
