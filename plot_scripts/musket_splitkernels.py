@@ -41,7 +41,6 @@ for x in range(1, 11):
             currentrow = my_data.iloc[[y]].astype(float).values.tolist()
             for z in range(0, 8):
                 dump_data2[z] = dump_data2[z] + currentrow[0][z]
-        print dump_data2
         ax.bar(labels, dump_data[0], width, bottom=dump_data2, label=legendlabels[counter])
     else:
         ax.bar(labels, dump_data[0], width, label=legendlabels[counter])
