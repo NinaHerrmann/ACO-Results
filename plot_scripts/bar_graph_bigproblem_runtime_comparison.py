@@ -37,6 +37,10 @@ barWidth = 0.3
 r1 = np.arange(len(bars1))
 r2 = [x + barWidth for x in r1]
 
+fig, ax = plt.subplots()
+ax.set_axisbelow(True)
+ax.grid()
+
 # Create blue bars
 plt.bar(r1, bars1, width = barWidth, color = '#A60628', edgecolor = 'black', capsize=7, label='Musket')
 plt.bar(r2, bars2, width = barWidth, color = '#348ABD', edgecolor = 'black', capsize=7, label='Low-level')

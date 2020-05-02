@@ -30,6 +30,10 @@ Breno8 = breno_data.iloc[4].astype(float)[9:]
 
 bars2 = [Breno1[9],Breno2[9],Breno4[9],Breno8[9]]
 
+fig, ax = plt.subplots()
+ax.set_axisbelow(True)
+ax.grid()
+
 # width of the bars
 barWidth = 0.3
 
