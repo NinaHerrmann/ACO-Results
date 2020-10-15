@@ -42,7 +42,7 @@ plt.bar(r1, bars1, width = barWidth, color = '#A60628', edgecolor = 'black', cap
 plt.bar(r2, bars2, width = barWidth, color = '#348ABD', edgecolor = 'black', capsize=7, label='Low-level')
 
 # general layout
-plt.xticks([r + barWidth for r in range(len(bars1))], ['1024', '2048', '4096', '8192'])
+plt.xticks([r + barWidth/2 for r in range(len(bars1))], ['1024', '2048', '4096', '8192'])
 plt.title('Runtimes - pr2392')
 plt.ylabel('seconds')
 plt.xlabel('ants')
