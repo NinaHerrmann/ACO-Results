@@ -52,7 +52,7 @@ r2 = [x + barWidth for x in r1]
 plt.figure(figsize=(9, 3))
 
 # Create blue bars
-plt.bar(r1, lowlevelAverage, width = barWidth, color = '#A60628', edgecolor = 'black', capsize=7, label='Low-Level')
+plt.bar(r1, lowlevelAverage, width = barWidth, color = '#A60628', edgecolor = 'black', capsize=7, label='Low-level')
 plt.bar(r2, MusketAverage, width = barWidth, color = '#348ABD', edgecolor = 'black', capsize=7, label='Musket')
 
 # general layout

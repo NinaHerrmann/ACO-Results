@@ -41,9 +41,11 @@ fig, ax = plt.subplots()
 ax.set_axisbelow(True)
 ax.grid()
 
+plt.figure(figsize=(9, 3))
+
 # Create blue bars
-plt.bar(r1, bars1, width = barWidth, color = '#A60628', edgecolor = 'black', capsize=7, label='Musket')
-plt.bar(r2, bars2, width = barWidth, color = '#348ABD', edgecolor = 'black', capsize=7, label='Low-level')
+plt.bar(r1, bars2, width = barWidth, color = '#A60628', edgecolor = 'black', capsize=7, label='Low-level')
+plt.bar(r2, bars1, width = barWidth, color = '#348ABD', edgecolor = 'black', capsize=7, label='Musket')
 
 # general layout
 plt.xticks([r + barWidth/2 for r in range(len(bars1))], ['1024', '2048', '4096', '8192'])
