@@ -26,16 +26,26 @@ Breno2048 = breno_data.iloc[2].astype(float)[:-1]
 Breno4096 = breno_data.iloc[3].astype(float)[:-1]
 Breno8192 = breno_data.iloc[4].astype(float)[:-1]
 
-BrenoBars_1024 = axes[0, 0].bar(ind+width, Breno1024, width, bottom=0)
-BrenoBars_2048 = axes[1, 0].bar(ind+width, Breno2048, width, bottom=0)
-BrenoBars_4096 = axes[0, 1].bar(ind+width, Breno4096, width, bottom=0)
-BrenoBars_8192 = axes[1, 1].bar(ind+width, Breno8192, width, bottom=0)
+BrenoBars_1024 = axes[0, 0].bar(ind+width, Breno1024, width, bottom=0, color = '#348ABD')
+BrenoBars_2048 = axes[1, 0].bar(ind+width, Breno2048, width, bottom=0, color = '#348ABD')
+BrenoBars_4096 = axes[0, 1].bar(ind+width, Breno4096, width, bottom=0, color = '#348ABD')
+BrenoBars_8192 = axes[1, 1].bar(ind+width, Breno8192, width, bottom=0, color = '#348ABD')
 
-MusketBars_1024 = axes[0, 0].bar(ind, Musket1024, width,  bottom=0)
-MusketBars_2048 = axes[1, 0].bar(ind, Musket2048, width,  bottom=0)
-MusketBars_4096 = axes[0, 1].bar(ind, Musket4096, width,  bottom=0)
-MusketBars_8192 = axes[1, 1].bar(ind, Musket8192, width,  bottom=0)
+MusketBars_1024 = axes[0, 0].bar(ind, Musket1024, width,  bottom=0, color = '#A60628')
+MusketBars_2048 = axes[1, 0].bar(ind, Musket2048, width,  bottom=0, color = '#A60628')
+MusketBars_4096 = axes[0, 1].bar(ind, Musket4096, width,  bottom=0, color = '#A60628')
+MusketBars_8192 = axes[1, 1].bar(ind, Musket8192, width,  bottom=0, color = '#A60628')
 
+axes[0, 0].set_axisbelow(True)
+axes[1, 0].set_axisbelow(True)
+axes[0, 1].set_axisbelow(True)
+axes[1, 1].set_axisbelow(True)
+
+axes[0, 0].grid()
+axes[1, 0].grid()
+axes[0, 1].grid()
+axes[1, 1].grid()
+                      
 axes[0, 0].set_title('1024 Ants')
 axes[1, 0].set_title('2048 Ants')
 axes[0, 1].set_title('4096 Ants')
