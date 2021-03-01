@@ -1,36 +1,39 @@
 import csv
+
 import numpy as np
 import pandas as pd
-
-my_data=pd.read_csv('../raw_data/Musket_75_5-12_completekernels.dat', delimiter=';', header=None)
+from decimal import Decimal
+my_data=pd.read_csv('../data_aggregation/BPP70short.csv', delimiter=';', header=None)
 currentcity = 0
-results = pd.DataFrame(np.zeros((4, 12)))
+results = pd.DataFrame(np.zeros((4, 5)))
 sum = 0
 counter = 0
 counterants = 0
 numberants= 0
 lastnumberants = 1024
 print my_data
-lastcity = my_data.iloc[0][2]
+lastcity = 0
 for index, row in my_data.iterrows():
-    currentcity = row[2]
-    numberants = row[3]
+
+    currentcity = row[1]
+    numberants = row[0]
     if currentcity != lastcity:
-        print counter
-        results.iloc[counterants][lastcity-1] = sum / counter
+        print lastcity
+        results.iloc[counterants][lastcity] = sum / counter
         lastcity = currentcity
         sum = 0
         counter = 0
         counterants = 0
         numberants = 0
-        lastnumberants = row[3]
+        lastnumberants = row[0]
     elif numberants != lastnumberants:
-        print counter
-        results.iloc[counterants][lastcity-1] = sum / counter
+        results.iloc[counterants][lastcity] = sum / counter
         counterants = counterants + 1
         counter = 0
         sum = 0
-        lastnumberants = row[3]
-    sum += row[6]
+        lastnumberants = row[0]
+    afloatnumber = float(row[4])
+    sum += afloatnumber
     counter = counter + 1
-results.to_csv('result_musket.csv')
+print results
+results.to_csv('result_BPP70_musket.csv')
