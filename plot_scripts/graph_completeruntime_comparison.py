@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 my_data = pd.read_csv('../data_aggregation/Musket_1,3,5-12_average.csv', delimiter=',', header=None)
-breno_data = pd.read_csv('../data_aggregation/LowLevel_1,3,5-12_average.csv', delimiter=',', header=None)
+cm70_data = pd.read_csv('../data_aggregation/LowLevel_1,3,5-12_average.csv', delimiter=',', header=None)
 
 #define size
 fig, axes = plt.subplots(nrows=2, ncols=2, sharex=True, figsize=(15, 10))

@@ -24,8 +24,6 @@ Breno2048 = breno_data.iloc[2].astype(float)
 Breno4096 = breno_data.iloc[3].astype(float)
 Breno8192 = breno_data.iloc[4].astype(float)
 
-print Breno1024
-print Musket1024
 BrenoBars_1024 = axes[0, 0].bar(ind+width, Breno1024, width, bottom=0)
 BrenoBars_2048 = axes[1, 0].bar(ind+width, Breno2048, width, bottom=0)
 BrenoBars_4096 = axes[0, 1].bar(ind+width, Breno4096, width, bottom=0)
