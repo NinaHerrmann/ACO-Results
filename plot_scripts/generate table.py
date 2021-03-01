@@ -22,7 +22,7 @@ import numpy as np
 ll_path = '../bpp_output_data/ll/256_ll_aco_bpp_p'
 musket_data = pd.read_csv('../bpp_output_data/musket/paking2.dat', delimiter=',', header=None)
 
-f  = open("speedup-table.txt", "w+") 
+file  = open("speedup-table.txt", "w+") 
 
 #extract data from files
 Musket1024Average = [0,0,0,0,0,0]
@@ -46,7 +46,7 @@ for f in range(6):
     
     breno_data = pd.read_csv(file_path_str, delimiter=',', header=None)
     
-    f.write(" %d & " , f)
+    file.write(" %d & " %f)
      
     for x in range(4):
         ma = 0
@@ -66,9 +66,9 @@ for f in range(6):
         
         speed = ma / lla
         
-        f.write(" %d & " , lla)
-        f.write(" %d & " , ma)
-        f.write(" %d & " , speed)
-    f.write(" \r\n ")
+        file.write(" %.2f & " %lla)
+        file.write(" %.2f & " %ma)
+        file.write(" %.2f & " %speed)
+    file.write(" \r\n ")
 
-f.close()
+file.close()
