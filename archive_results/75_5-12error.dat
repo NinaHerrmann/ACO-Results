@@ -1,5 +1,0 @@
-GPUassert: an illegal memory access was encountered src/../include/musket.cuh 603
-srun: error: r13n01: task 0: Exited with exit code 188
-slurmstepd: error: *** STEP 5580067.1020 ON r13n01 CANCELLED AT 2020-04-10T05:05:02 DUE TO TIME LIMIT ***
-slurmstepd: error: *** JOB 5580067 ON r13n01 CANCELLED AT 2020-04-10T05:05:02 DUE TO TIME LIMIT ***
-srun: Job step aborted: Waiting up to 302 seconds for job step to finish.
