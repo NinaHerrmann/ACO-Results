@@ -97,10 +97,11 @@ axes[1, 1].set_xlabel('problem')
 
 axes[0, 0].set_xticks(ind + width / 2)
 axes[0, 0].set_xticklabels(years)
-for ax in axes.flat:
-    ax.label_outer()
-for ax in fig.get_axes():
-    ax.label_outer()
+
+#for ax in axes.flat:
+    #ax.label_outer()
+#for ax in fig.get_axes():
+ #   ax.label_outer()
 axes[0, 0].legend((BrenoBars_1024[0],MusketBars_1024[0]), ('Tesla V100','GeForce RTX 2080 Ti'))
 axes[0, 0].autoscale_view()
 
