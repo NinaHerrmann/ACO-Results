@@ -92,7 +92,7 @@ fig, axes = plt.subplots(nrows=2, ncols=2, sharex=True, figsize=(15, 10))
 # X-Achsis
 years = [0,1,2,3,4,5]
 ind = np.arange(len(years))
-width = 0.175         # the width of the bars
+width = 0.20       # the width of the bars
 
 BrenoBars_1024 = axes[0, 0].bar(ind, ll1024Average, width, bottom=0, color = '#A60628')
 BrenoBars_2048 = axes[1, 0].bar(ind, ll2048Average, width, bottom=0, color = '#A60628')
@@ -129,14 +129,14 @@ axes[1, 0].set_xlabel('problem')
 axes[0, 1].set_xlabel('problem')
 axes[1, 1].set_xlabel('problem')
 
-axes[0, 0].set_xticks(ind + width / 2)
+axes[0, 0].set_xticks(ind + ((3*width)/2))
 axes[0, 0].set_xticklabels(years)
 
 #for ax in axes.flat:
     #ax.label_outer()
 #for ax in fig.get_axes():
  #   ax.label_outer()
-axes[0, 0].legend((BrenoBars_1024[0],MusketBars_1024[0],BrenoBars_1024_2[0],MusketBars_1024_2[0]), ('Low-level - v100','Musket - v100', 'Low-level - 2080','Musket - v2080'))
+axes[0, 0].legend((BrenoBars_1024[0],MusketBars_1024[0],BrenoBars_1024_2[0],MusketBars_1024_2[0]), ('Low-level - v100','Musket - v100', 'Low-level - 2080 Ti','Musket - 2080 Ti'))
 axes[0, 0].autoscale_view()
 
 plt.show()

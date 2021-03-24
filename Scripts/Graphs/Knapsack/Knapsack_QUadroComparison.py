@@ -34,8 +34,8 @@ for f in range(6):
         LL_Average[x][f] = ll_data[4][x + (f*4)]
 
 #define size
-print HL_Average
-print LL_Average
+#print HL_Average
+#print LL_Average
 fig, axes = plt.subplots(nrows=2, ncols=2, sharex=True, figsize=(15, 10))
 
 # X-Achsis
